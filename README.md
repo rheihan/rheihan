@@ -29,8 +29,9 @@
 
 ---
 
-![Rheihandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=rheihandra&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rheihandra&layout=compact&theme=radical)
+![Rheihan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rheihan&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rheihan&layout=compact&theme=radical)
+
 
 > “Technology becomes powerful when it feels simple for the human using it.”  
 > — Rheihandra Ardhiansyah
