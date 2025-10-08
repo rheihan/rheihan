@@ -11,7 +11,7 @@ I enjoy turning ideas into real digital products — from crafting beautiful int
 💻 Exploring the world of **Web Development, UI/UX, and Data Analysis**  
 🧠 Believe that **design and logic** can go hand-in-hand to create impactful solutions  
 🌏 Based in Indonesia  
-📧 Reach me at: **rheihan@example.com** *(ganti dengan email kamu ya)*  
+📧 Reach me at: **hansebumps@gmail.com**   
 
 ---
 
